@@ -12,8 +12,6 @@ image watermarking
 --
 
 包含两个部分，dsp端和android手机端
-核心代码用matlab写成并测试，然后分别移植上java和dsp。
-
 
 参考
 --
