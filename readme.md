@@ -11,7 +11,7 @@ image watermarking
 目录框架说明
 --
 
-包含两个部分，dsp端和android手机端
+包含两个部分，dsp端和android手机端。
 
 参考
 --
